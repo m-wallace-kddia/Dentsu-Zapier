@@ -1,0 +1,17 @@
+{
+  "name": "dentsu",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "edit.js",
+  "dependencies": {
+    "console": "^0.7.2",
+    "node-fetch": "^3.2.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
