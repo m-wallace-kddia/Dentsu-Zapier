@@ -1,5 +1,4 @@
-const inputData = '{"id":"7a6ff0c4-ec68-4ce4-aeba-f8d02ecb9055","type":"ADD_RECORD","app":{"id":"140","name":"Payment Request Form"},"record":{"Attachment":{"type":"FILE","value":[{"fileKey":"202209211607433DB352F1CC4F461F9C986CA8C1DEC1BF296","name":"2022.09.20_invoice_ISSUU.pdf","contentType":"application/pdf","size":"103204"}]},"Job_Code_Job_Title":{"type":"SINGLE_LINE_TEXT","value":"19-PR-010: "},"Calculated_Difference_USD":{"type":"CALC","value":"0"},"Calculated_Budget_USD":{"type":"CALC","value":""},"Date_3":{"type":"DATE","value":"2022-10-20"},"Description_Budget":{"type":"RICH_TEXT","value":"<div><br /></div>"},"Date_1":{"type":"DATE","value":"2022-09-20"},"Date_2":{"type":"DATE","value":null},"YR":{"type":"NUMBER","value":"137.9"},"Lookup":{"type":"SINGLE_LINE_TEXT","value":"Issuu"},"Employee_ID_Reimbursement":{"type":"NUMBER","value":""},"Payment_Complete_Date":{"type":"DATE","value":null},"Planning_Sub_Category":{"type":"DROP_DOWN","value":"None Applicable"},"YU":{"type":"RADIO_BUTTON","value":"USD"},"Status":{"type":"STATUS","value":"Drafting"},"Assignee":{"type":"STATUS_ASSIGNEE","value":[{"code":"nmihara@japanhousela.com","name":"Nagisa Mihara"}]},"PR_Marketing_Sub_Category":{"type":"DROP_DOWN","value":"3-2-09 - Software Subscription"},"Department_selection":{"type":"ORGANIZATION_SELECT","value":[{"code":"PR/Marketing_REQDq0","name":"PR/Marketing"}]},"Payment_Method":{"type":"DROP_DOWN","value":"Debit"},"Calculated_2":{"type":"CALC","value":"0"},"Calculated_1":{"type":"CALC","value":"0"},"Text_area":{"type":"MULTI_LINE_TEXT","value":""},"Payment_Method_Reimbursement":{"type":"DROP_DOWN","value":"Reimbursement"},"Requested_Amount":{"type":"NUMBER","value":""},"Job_Title_Lookup":{"type":"SINGLE_LINE_TEXT","value":""},"Budget_Amount_Disp":{"type":"CALC","value":""},"Link":{"type":"LINK","value":""},"$id":{"type":"__ID__","value":"1035"},"Category":{"type":"DROP_DOWN","value":"Cat 3-2: PR & Marketing"},"YEN":{"type":"CALC","value":"0"},"Vendor_Name":{"type":"SINGLE_LINE_TEXT","value":""},"Calculated_Payment_JPY":{"type":"CALC","value":"0"},"User_selection_4":{"type":"USER_SELECT","value":[]},"Calc_Sub_Category":{"type":"SINGLE_LINE_TEXT","value":"3-2-09 - Software Subscription"},"User_selection_1":{"type":"USER_SELECT","value":[{"code":"nmihara@japanhousela.com","name":"Nagisa Mihara"}]},"Amount_Budget":{"type":"NUMBER","value":""},"Updated_by":{"type":"MODIFIER","value":{"code":"nmihara@japanhousela.com","name":"Nagisa Mihara"}},"BP":{"type":"DROP_DOWN","value":"Payment"},"Created_datetime":{"type":"CREATED_TIME","value":"2022-09-21T16:07:00Z"},"Radio_button":{"type":"RADIO_BUTTON","value":"USD ($)"},"Number":{"type":"NUMBER","value":""},"BP_TT":{"type":"RADIO_BUTTON","value":"Payment"},"YU_Budget":{"type":"RADIO_BUTTON","value":"USD"},"Record_number":{"type":"RECORD_NUMBER","value":"1035"},"Created_by":{"type":"CREATOR","value":{"code":"nmihara@japanhousela.com","name":"Nagisa Mihara"}},"Text_4":{"type":"SINGLE_LINE_TEXT","value":""},"User_selection":{"type":"USER_SELECT","value":[]},"Calculated_Difference_JPY":{"type":"CALC","value":"0"},"Amount_JPY":{"type":"NUMBER","value":""},"Operations_Sub_Category":{"type":"DROP_DOWN","value":"None Applicable"},"Calculated_Budget_JPY":{"type":"CALC","value":"0"},"Amount":{"type":"NUMBER","value":""},"USD":{"type":"CALC","value":""},"Budget_Amount_USD":{"type":"NUMBER","value":""},"Date_0":{"type":"DATE","value":null},"Payment_Amount_Disp":{"type":"CALC","value":"45"},"$revision":{"type":"__REVISION__","value":"1"},"Date":{"type":"DATE","value":"2022-09-20"},"Job_Code":{"type":"SINGLE_LINE_TEXT","value":"19-PR-010"},"Updated_datetime":{"type":"UPDATED_TIME","value":"2022-09-21T16:07:00Z"},"Calculated_Payment_USD":{"type":"CALC","value":""},"Amount_USD":{"type":"NUMBER","value":"45"},"Budget_Amount_JPY":{"type":"NUMBER","value":""},"Description_Payment":{"type":"MULTI_LINE_TEXT","value":"Subscription payment for issuu Premium Monthly service - Sep. 20 to Oct. 20, 2022"},"Lookup_4":{"type":"SINGLE_LINE_TEXT","value":""},"Lookup_3":{"type":"SINGLE_LINE_TEXT","value":""}},"recordTitle":"1035","url":"https://jhla.kintone.com/k/140/show#record=1035"}'
-
+const inputData = '{"id":"e2a9ee13-9291-489d-92cf-3462de7b6ee5","type":"ADD_RECORD","app":{"id":"140","name":"Payment Request Form"},"record":{"Attachment":{"type":"FILE","value":[{"fileKey":"2022090819334248581932024643A392456A4A7F2AF541008","name":"47 Risa Ueda RBS fee.pdf","contentType":"application/pdf","size":"91852"}]},"Job_Code_Job_Title":{"type":"SINGLE_LINE_TEXT","value":": "},"Calculated_Difference_USD":{"type":"CALC","value":"0"},"Calculated_Budget_USD":{"type":"CALC","value":""},"Date_3":{"type":"DATE","value":"2022-09-02"},"Description_Budget":{"type":"RICH_TEXT","value":"<div><br /></div>"},"Date_1":{"type":"DATE","value":"2022-09-02"},"Date_2":{"type":"DATE","value":null},"YR":{"type":"NUMBER","value":"137.9"},"Lookup":{"type":"SINGLE_LINE_TEXT","value":""},"Employee_ID_Reimbursement":{"type":"NUMBER","value":"200137"},"Payment_Complete_Date":{"type":"DATE","value":null},"Planning_Sub_Category":{"type":"DROP_DOWN","value":"None Applicable"},"YU":{"type":"RADIO_BUTTON","value":"USD"},"Status":{"type":"STATUS","value":"Drafting"},"Assignee":{"type":"STATUS_ASSIGNEE","value":[{"code":"Eri.Yamaguchi@dentsu.com","name":"Eri Yamaguchi"}]},"PR_Marketing_Sub_Category":{"type":"DROP_DOWN","value":"None Applicable"},"Department_selection":{"type":"ORGANIZATION_SELECT","value":[{"code":"Operations_aHBkXr","name":"Operations"}]},"Payment_Method":{"type":"DROP_DOWN","value":"Check"},"Calculated_2":{"type":"CALC","value":"0"},"Calculated_1":{"type":"CALC","value":"0"},"Text_area":{"type":"MULTI_LINE_TEXT","value":""},"Payment_Method_Reimbursement":{"type":"DROP_DOWN","value":"Reimbursement"},"Requested_Amount":{"type":"NUMBER","value":""},"Job_Title_Lookup":{"type":"SINGLE_LINE_TEXT","value":""},"Budget_Amount_Disp":{"type":"CALC","value":""},"Link":{"type":"LINK","value":""},"$id":{"type":"__ID__","value":"993"},"Category":{"type":"DROP_DOWN","value":"Cat 6: No Charge to MOFA (管理費)"},"YEN":{"type":"CALC","value":"0"},"Vendor_Name":{"type":"SINGLE_LINE_TEXT","value":""},"Calculated_Payment_JPY":{"type":"CALC","value":"0"},"User_selection_4":{"type":"USER_SELECT","value":[]},"Calc_Sub_Category":{"type":"SINGLE_LINE_TEXT","value":"Not Applicable"},"User_selection_1":{"type":"USER_SELECT","value":[{"code":"Eri.Yamaguchi@dentsu.com","name":"Eri Yamaguchi"}]},"Amount_Budget":{"type":"NUMBER","value":""},"Updated_by":{"type":"MODIFIER","value":{"code":"Eri.Yamaguchi@dentsu.com","name":"Eri Yamaguchi"}},"BP":{"type":"DROP_DOWN","value":"Reimbursement"},"Created_datetime":{"type":"CREATED_TIME","value":"2022-09-08T19:33:00Z"},"Radio_button":{"type":"RADIO_BUTTON","value":"USD ($)"},"Number":{"type":"NUMBER","value":""},"BP_TT":{"type":"RADIO_BUTTON","value":"Payment"},"YU_Budget":{"type":"RADIO_BUTTON","value":"USD"},"Record_number":{"type":"RECORD_NUMBER","value":"993"},"Created_by":{"type":"CREATOR","value":{"code":"Eri.Yamaguchi@dentsu.com","name":"Eri Yamaguchi"}},"Text_4":{"type":"SINGLE_LINE_TEXT","value":""},"User_selection":{"type":"USER_SELECT","value":[]},"Calculated_Difference_JPY":{"type":"CALC","value":"0"},"Amount_JPY":{"type":"NUMBER","value":""},"Operations_Sub_Category":{"type":"DROP_DOWN","value":"None Applicable"},"Calculated_Budget_JPY":{"type":"CALC","value":"0"},"Amount":{"type":"NUMBER","value":""},"USD":{"type":"CALC","value":""},"Budget_Amount_USD":{"type":"NUMBER","value":""},"Date_0":{"type":"DATE","value":null},"Payment_Amount_Disp":{"type":"CALC","value":"15.5"},"$revision":{"type":"__REVISION__","value":"1"},"Date":{"type":"DATE","value":"2022-09-08"},"Job_Code":{"type":"SINGLE_LINE_TEXT","value":""},"Updated_datetime":{"type":"UPDATED_TIME","value":"2022-09-08T19:33:00Z"},"Calculated_Payment_USD":{"type":"CALC","value":""},"Amount_USD":{"type":"NUMBER","value":"15.5"},"Budget_Amount_JPY":{"type":"NUMBER","value":""},"Description_Payment":{"type":"MULTI_LINE_TEXT","value":"check # 47 "},"Lookup_4":{"type":"SINGLE_LINE_TEXT","value":""},"Lookup_3":{"type":"SINGLE_LINE_TEXT","value":"Risa Ueda"}},"recordTitle":"993","url":"https://jhla.kintone.com/k/140/show#record=993"}'
 
 import { Console } from 'console';
 import fetch from 'node-fetch';
@@ -278,11 +277,19 @@ function findVendorRecord(name, destRecords) {
   return dRecordID;
 }
 
-function findEmployeeRecordID(name, destRecords) {
+function findEmployeeRecordID(name, destRecords, sourceRecords) {
+  // since only given name have to search emblpyee id number in source
+  let employeeID = -1
+  for (const sRecord of sourceRecords) {
+    if (sRecord['Full_Name'].value && sRecord['Full_Name'].value === name) {
+      employeeID = sRecord['Number'].value;
+    }
+  }
+
   // Full_Name = FULL NAME
   let dRecordID = -1
   for (const dRecord of destRecords) {
-    if (dRecord['Full_Name'].value && dRecord['Full_Name'].value === name) {
+    if (dRecord['Number'].value && dRecord['Number'].value === employeeID) {
       dRecordID = dRecord['Record_number'].value;
     }
   }
@@ -482,10 +489,17 @@ if (data.type === "ADD_RECORD") {
       }
     } 
     else if (key === 'Lookup_3' || key === 'Lookup_4') {
-      let recordID = findEmployeeRecordID(data.record[key].value, destEmployeeDBRecords)
+      let recordID = findEmployeeRecordID(data.record[key].value, destEmployeeDBRecords, sourceEmployeeDBRecords)
       if (recordID !== -1) {
+        // use the full name of the destRecord
+        let toAdd = -1;
+        for (const findRecord of destEmployeeDBRecords) {
+          if (findRecord['Record_number'].value && findRecord['Record_number'].value === recordID) {
+            toAdd = findRecord['Full_Name'].value
+          }
+        }
         builder[key] = {
-          value: data.record[key].value
+          value: toAdd === -1 ? data.record[key].value : toAdd
         };
       } else {
         // have to add the employee to the database first
@@ -532,7 +546,8 @@ if (data.type === "ADD_RECORD") {
   content.records.push(builder);
   
   const addedRequest = await requests.addRecord(appToAdd, content);
-  console.log(addedRequest);
+
+  // check add request response.
   if (addedRequest.errors) {
     const err = new Error("Add Request Failed");
     errReturn.push(err);
@@ -735,10 +750,17 @@ if (data.type === "UPDATE_RECORD") {
       }
     } 
     else if (key === 'Lookup_3' || key === 'Lookup_4') {
-      let recordID = findEmployeeRecordID(data.record[key].value, destEmployeeDBRecords)
+      let recordID = findEmployeeRecordID(data.record[key].value, destEmployeeDBRecords, sourceEmployeeDBRecords)
       if (recordID !== -1) {
+        // use the full name of the destRecord
+        let toAdd = -1;
+        for (const record of destEmployeeDBRecords) {
+          if (record['Record_number'].value && record['Record_number'].value === recordID) {
+            toAdd = record['Full_Name'].value
+          }
+        }
         builder[key] = {
-          value: data.record[key].value
+          value: toAdd === -1 ? data.record[key].value : toAdd
         };
       } else {
         // have to add the employee to the database first
